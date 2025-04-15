@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function(){
  
  })
  
- ScrollReveal().reveal('#inicio', { delay: 500 });
- ScrollReveal().reveal('#tropicalia', { delay: 500 });
- ScrollReveal().reveal('#galeria', { delay: 500 });
- ScrollReveal().reveal('#contato', { delay: 500 });
+ ScrollReveal().reveal('#inicio', { delay: 2000 });
+ ScrollReveal().reveal('#tropicalia', { delay: 2000 });
+ ScrollReveal().reveal('#galeria', { delay: 2000 });
+ ScrollReveal().reveal('#contato', { delay: 2000 });
